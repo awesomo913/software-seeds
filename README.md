@@ -28,6 +28,7 @@ python part_sniper.py
 python privacy_sentry.py
 python sop_vision.py
 ```
+`setup_software_seeds.sh` is written for Raspberry Pi 5 / Linux (it uses `apt` and assumes a Pi setup) — on other OSes, skip it and `pip install` the per-script dependencies manually.
 
 ## Status
 **Unmaintained / archived.** Personal project, published as-is — fork it, adapt it, take it over. No support or guarantees.
